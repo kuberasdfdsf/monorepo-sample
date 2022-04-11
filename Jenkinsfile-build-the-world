@@ -1,9 +1,9 @@
 pipeline {
 
-    stages {
+
         stage('Build the world') {
             sh 'echo Hi'
         }
 
-    }
+    
 }
